@@ -11,7 +11,7 @@ from chattin import client
 
 cli = client(debug=False) # debug=True
 def ask(q: str):
-  return cli.ask(q) # 
+  return cli.ask(q) # cli.ask(q, ai=True), instead of using my terrible data, it will use an AI to respond to your desired question. 
   
 print(ask("hi!")) 
 ```
@@ -22,8 +22,7 @@ from chatting import client
 
 cli = client(debug=False)
 def train(q: str, a: str):
-  return cli.train(q, a) # cli.train(q, ai=True), this will train data using OpenAI (saves me tokens :])
-
+  return cli.train(q, a) # cli.train(q, ai=True), this will train data using AI, b/c human input could be sometimes confusing :).
 print(train("training test", True))
 ```
 
