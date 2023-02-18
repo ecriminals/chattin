@@ -1,8 +1,11 @@
 # Chatting
 ### Python-based package that answers simplistic questions and can be taught by Human input & AI input.
 
-# FAQ
-Currently still in development.
+# Progress
+Released v1!
+
+# Faq
+
 
 # Examples
 ### Ask Question
