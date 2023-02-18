@@ -1,5 +1,5 @@
 # Chatting
-### Python-based package that answers simplistic questions and can be taught by human input.
+### Python-based package that answers simplistic questions and can be taught by Human input & AI input.
 
 # FAQ
 Currently still in development.
