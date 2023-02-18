@@ -30,7 +30,7 @@ print(train("training test", True))
 # Pre-Trained Data From Other ChatBot's.
 `All the data below is not mine nor endorsed, if anything is proven to be "illegal" or "inappropriate" they will be removed`.
 
-`Any data containg {removed}, including inappropriate content or illegal content`.
+`Any data containing {removed}, including inappropriate content or illegal content`.
 
 `Format: "question, answer"`
 ```json
